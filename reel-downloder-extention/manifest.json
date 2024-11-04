@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Reel Downloader",
+  "version": "1.0",
+  "description": "Download Instagram reels with one click.",
+  "permissions": ["activeTab", "downloads", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
