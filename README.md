@@ -11,7 +11,7 @@ This is a simple browser extension that allows you to download Instagram Reels a
 1. **Clone or Download the Repository:**
    - Clone this repository by running:
      ```bash
-     git clone https://github.com/tejasmali07/reel-downloader-extention.git
+     git clone https://github.com/tejazmali/reel-downloader-extention.git
      ```
    - Or download the ZIP file directly from GitHub and extract it.
 
